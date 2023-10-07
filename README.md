@@ -1,9 +1,9 @@
 # Undergraduate @ Electrical Engineering, Jadavpur University
 
 ## About Me :eye_speech_bubble:
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision And Robotics(Mechatronics)
-- 🌱 I’m currently an Electrical Engineering undergraduate of Jadavpur University(India,West Bengal)
-- 💞️ I’m looking to collaborate on ML projects and Deep learning projects related to computer vision and NLP with other coders and developers and research oppurtunities in Computer Vision, Robotics and Signal
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics.
+- 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
+- 💞️ I’m looking to collaborate on ML and Deep learning projects related to computer vision and NLP with other coders and developers and research opportunities in Computer Vision, Robotics, and Signal Processing.
 
 ## Familiar With :confused:
 Frameworks:
