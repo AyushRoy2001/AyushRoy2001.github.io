@@ -43,3 +43,11 @@ Under Review:
 - DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
 - Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
 - JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
+
+## Hackathons
+
+|2021| |MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL
+|2022| |3RD PRIZE| FROSTHACK @ IIT MANDI
+|2022| |TOP 10| Cloud Community Hackday @ GDG Cloud (Google)
+|2022| |FINALIST| 404 RESOLVED @ IIT DELHI
+|2022| |FINALIST| IEEE R10 Robotics Competition
