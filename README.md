@@ -1,5 +1,4 @@
-# Undergraduate
-#### Electrical Engineering, Jadavpur University
+# Undergraduate @ Electrical Engineering, Jadavpur University
 
 ### Internships
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
