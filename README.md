@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## About Me 😊
-/assets/img/dp.jfif
+![gif1](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/img/gif1.gif)
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. 
 - 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
 - 💞️ I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing.
