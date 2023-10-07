@@ -1,9 +1,10 @@
 # Hello 👋
 
 ## About Me 😊
+![gif1](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a0b00685-dcc9-424d-9c43-a5f48de4eb0c)
 
 <div class="circular--portrait">
-  <img src="[https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/88354eef-6547-4045-ba57-c987bf50cf04](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/9719f03c-f880-4336-825d-38562557ef58)" />
+  <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/88354eef-6547-4045-ba57-c987bf50cf04" />
 </div>
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. 
 - 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
