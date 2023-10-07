@@ -55,7 +55,7 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
-## Publications
+## Publications :muscle:
 Accepted:
 - A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)
 - Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023) 
@@ -72,10 +72,14 @@ Under Review:
 - Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
 - JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
 
-## Hackathons
+## Hackathons 
 
 |2021| MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL                     |
 |2022| 3RD PRIZE               | FROSTHACK @ IIT MANDI                       |
 |2022| TOP 10                  | Cloud Community Hackday @ GDG Cloud (Google)|
 |2022| FINALIST                | 404 RESOLVED @ IIT DELHI                    |
 |2022| FINALIST                | IEEE R10 Robotics Competition               |
+
+## Contact me 📫
+![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): aroy80321@gmail.com<br>
+![Logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white): 9163905365
