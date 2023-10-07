@@ -46,8 +46,8 @@ Under Review:
 
 ## Hackathons
 
-|2021| |MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL                     |
-|2022| |3RD PRIZE               | FROSTHACK @ IIT MANDI                       |
-|2022| |TOP 10                  | Cloud Community Hackday @ GDG Cloud (Google)|
-|2022| |FINALIST                | 404 RESOLVED @ IIT DELHI                    |
-|2022| |FINALIST                | IEEE R10 Robotics Competition               |
+|2021| MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL                     |
+|2022| 3RD PRIZE               | FROSTHACK @ IIT MANDI                       |
+|2022| TOP 10                  | Cloud Community Hackday @ GDG Cloud (Google)|
+|2022| FINALIST                | 404 RESOLVED @ IIT DELHI                    |
+|2022| FINALIST                | IEEE R10 Robotics Competition               |
