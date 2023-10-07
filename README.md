@@ -1,6 +1,6 @@
 # Hello 👋
 
-## About Me :eye_speech_bubble:
+## About Me :satisfied:
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics.
 - 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
 - 💞️ I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing.
