@@ -1,5 +1,6 @@
 title: Ayush Roy
 logo: /assets/img/dp.jfif
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+description: text below image
+show_downloads: true
+#theme: jekyll-theme-minimal
+theme: midnight
