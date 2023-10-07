@@ -14,5 +14,5 @@ Supervisor-Prof. Umapada Pal
 Created drone license plate text spotting dataset (500 images) and underwater text dataset (300 images). Worked on an anchor-free RPN network using MSER and SWT on the features extracted from a Swin Transformer network. Paper accepted in AIA. </br>
 Supervisor-Prof. P Shivakumara 
 - Summer Research Intern, IISc, Bangalore, India Jul 2023 – September 2023 </br>
-Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, projecting the image embedding into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023. </br>
+Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, projecting the image embeddings into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023. </br>
 Supervisor-Prof. Rajiv Saundararajan
