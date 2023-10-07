@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## About Me 😊
-- 👀 I’m interested in $${\color{Orange} Machine Learning, Deep Learning, Computer Vision, and Robotics.}$$
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. 
 - 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
 - 💞️ I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing.
 
@@ -74,11 +74,11 @@ Under Review: 😬
 
 ## Hackathons ✌️
 
-|2021| MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL                     |
-|2022| 3RD PRIZE               | FROSTHACK @ IIT MANDI                       |
-|2022| TOP 10                  | Cloud Community Hackday @ GDG Cloud (Google)|
-|2022| FINALIST                | 404 RESOLVED @ IIT DELHI                    |
-|2022| FINALIST                | IEEE R10 Robotics Competition               |
+|$${\color{Orange} 2021}$$| MOST INNOVATIVE SOLUTION| $${\color{lightgreen} HACK-A-WEB @ NIT BHOPAL}$$                      |
+|$${\color{Orange} 2022}$$| 3RD PRIZE               | $${\color{lightgreen} FROSTHACK @ IIT MANDI}$$                        |
+|$${\color{Orange} 2022}$$| TOP 10                  | $${\color{lightgreen} Cloud Community Hackday @ GDG Cloud (Google)}$$ |
+|$${\color{Orange} 2022}$$| FINALIST                | $${\color{lightgreen} 404 RESOLVED @ IIT DELHI}$$                     |
+|$${\color{Orange} 2022}$$| FINALIST                | $${\color{lightgreen} IEEE R10 Robotics Competition}$$                |
 
 ## Contact me 📫
 ![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): aroy80321@gmail.com<br>
