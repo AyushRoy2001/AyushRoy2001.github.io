@@ -1,7 +1,6 @@
 # Hello 👋
 
 ## About Me 😊
-
 <div align="center">
   <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/88354eef-6547-4045-ba57-c987bf50cf04" width="150" height="150" style="border-radius: 50%;">
 </div>
