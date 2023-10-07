@@ -1,4 +1,4 @@
-# Undergraduate @ Electrical Engineering, Jadavpur University
+# Hello 👋
 
 ## About Me :eye_speech_bubble:
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics.
@@ -28,7 +28,7 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## Internships 👋
+## Internships 
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
 
 - Working on Audio Signal Processing, Image processing, Signal processing, Reinforcement Learning, Microprocessors, and Neural Networks. Used asynchronous Actor-Critic deep Q learning for training the simulated environment. The trained model will be tested on constrained hardware and will be optimized. It is seen that LSTM is improving the performance of the model. Also, made an IOT-based mental stress detector using physiological data and artificial intelligence. Paper accepted in IEEE CATCON’2022 and is also a finalist in IEEE R10 Robotics competition held in Chulalongkorn University, Thailand. Multiple projects in computer vision using transfer learning, ensemble techniques, and feature selection for classification, modified UNET architectures, and distillation for creating novel architectures with domain-specific attention modules for medical image segmentation and copy-move forgery detection. Papers submitted in IEEE Transactions journals.
