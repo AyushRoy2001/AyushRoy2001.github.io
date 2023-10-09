@@ -1,29 +1,7 @@
 # Hello 👋
 
 ## About Me 😊
-.shadow
-    {
-        display:block;
-        position:relative;
-    }
-    
-    img {
-        width: 100%;
-        height: 100%;
-    }
-    
-    .shadow:before
-    {
-        display:block;
-        content:'';
-        position:absolute;
-        width:100%;
-        height:100%;
-        -moz-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
-        -webkit-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
-        box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
-    }
-<div class="shadow">
+<div class="circular--portrait">
   <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a0b00685-dcc9-424d-9c43-a5f48de4eb0c" />
 </div>
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. 
