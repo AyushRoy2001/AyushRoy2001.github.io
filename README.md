@@ -84,5 +84,5 @@ Under Review: 😬
 |2022| FINALIST                | IEEE R10 Robotics Competition               |
 
 ## Contact me 📫
-![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): aroy80321@gmail.com<br>
+[![Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com): aroy80321@gmail.com<br>
 ![Logo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white): 9163905365
