@@ -1,6 +1,6 @@
 # Hello 👋
 <div class="circular--portrait">
-  <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/img/" />
+  <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/blob/main/assets/img/dp.jfif" />
 </div>
 ## About Me 😊
 <div class="circular--portrait">
