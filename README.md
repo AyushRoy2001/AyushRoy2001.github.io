@@ -1,8 +1,11 @@
 # Hello 👋
+
 <div class="circular--portrait">
   <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/blob/main/assets/img/dp.jfif" />
 </div>
+
 ## About Me 😊
+
 <div class="circular--portrait">
   <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a0b00685-dcc9-424d-9c43-a5f48de4eb0c" />
 </div>
@@ -11,6 +14,7 @@
 - 💞️ I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing.
 
 ## Familiar With 👀
+
 Frameworks:
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
 ![Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,6 +38,7 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ## Internships 💫
+
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
 
 - Working on Audio Signal Processing, Image processing, Signal processing, Reinforcement Learning, Microprocessors, and Neural Networks. Used asynchronous Actor-Critic deep Q learning for training the simulated environment. The trained model will be tested on constrained hardware and will be optimized. It is seen that LSTM is improving the performance of the model. Also, made an IOT-based mental stress detector using physiological data and artificial intelligence. Paper accepted in IEEE CATCON’2022 and is also a finalist in IEEE R10 Robotics competition held in Chulalongkorn University, Thailand. Multiple projects in computer vision using transfer learning, ensemble techniques, and feature selection for classification, modified UNET architectures, and distillation for creating novel architectures with domain-specific attention modules for medical image segmentation and copy-move forgery detection. Papers submitted in IEEE Transactions journals.
@@ -61,6 +66,7 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
 ## Publications 💪
+
 Accepted: 😎
 - A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)
 - Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023) 
@@ -86,9 +92,11 @@ Under Review: 😬
 |2022| FINALIST                | IEEE R10 Robotics Competition               |
 
 ## Contact me 📫
+
 [![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
 
 ## Other links ☎️
+
 [![Google Scholar Logo](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=exgiMpgAAAAJ&hl=en)
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
 
