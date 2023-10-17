@@ -1,8 +1,6 @@
 # Hello 👋
+![dp](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a9c5a075-7544-4848-9c41-b196c4912ffb)
 
-<div class="circular--portrait">
-  <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/20d76fd3-5dfe-4756-9f5e-379908ee3f73" />
-</div>
 
 ## About Me 😊
 
