@@ -32,9 +32,7 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## Experience
-<details>
-<summary>Internships 💫</summary>
+Internships 💫
 
 **Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present**
 
@@ -61,11 +59,9 @@ IDEs: :writing_hand:
 - Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023.
 
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
-</details>
 
 ## Publications 💪
-<details>
-<summary>Accepted: 😎</summary>
+Accepted: 😎
   
 -[A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
   
@@ -80,10 +76,8 @@ IDEs: :writing_hand:
 -An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)
 
 -[A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
-</details>
 
-<details>
-<summary>Under Review: 😬</summary>
+Under Review: 😬
   
 -Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
 
@@ -94,7 +88,6 @@ IDEs: :writing_hand:
 -Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
 
 -JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
-</details>
 
 ## Hackathons ✌️
 
@@ -104,14 +97,11 @@ IDEs: :writing_hand:
 |2022| FINALIST                | 404 RESOLVED @ IIT DELHI                    |
 |2022| FINALIST                | IEEE R10 Robotics Competition               |
 
-## Socials
-<details>
-<summary>Contact me 📫</summary>
+## Contact me 📫
 
 [![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
 
-<summary>Other links ☎️</summary>
+## Other links ☎️
 
 [![Google Scholar Logo](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=exgiMpgAAAAJ&hl=en)
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
-</details>
