@@ -78,6 +78,7 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 
 7. [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 </details>
+
 <details>
 <summary>Under Review: 😬</summary>
   
