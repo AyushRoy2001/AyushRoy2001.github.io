@@ -64,6 +64,7 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 <details>
 <summary>Accepted: 😎</summary>
 1. [A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
+  
 2. [Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
 - [A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 - [Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’22)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC) 
