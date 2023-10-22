@@ -80,11 +80,16 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 </details>
 <details>
 <summary>Under Review: 😬</summary>
-- Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
-- A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
-- DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
-- Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
-- JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
+  
+1. Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
+
+2. A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
+  
+3. DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
+
+4. Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
+
+5. JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
 </details>
 
 ## Hackathons ✌️
