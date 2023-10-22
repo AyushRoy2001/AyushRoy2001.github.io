@@ -32,8 +32,9 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+## Experience
 <details>
-<summary>## Internships 💫</summary>
+<summary>Internships 💫</summary>
 
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
 
