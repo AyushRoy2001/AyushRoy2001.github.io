@@ -33,7 +33,7 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 <details>
-## Internships 💫
+<summary>## Internships 💫</summary>
 
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
 
