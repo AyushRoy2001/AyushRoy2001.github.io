@@ -32,8 +32,7 @@ IDEs: :writing_hand:
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-<details>
-<summary>## Internships 💫</summary>
+## Internships 💫
 
 Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present
 
@@ -60,11 +59,10 @@ Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023
 - Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023.
 
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
-</details>
 
 ## Publications 💪
-
-Accepted: 😎
+<details>
+<summary>Accepted: 😎</summary>
 - [A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
 - [Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
 - [A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
@@ -72,13 +70,15 @@ Accepted: 😎
 - [Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
 - An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)
 - [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
-  
-Under Review: 😬
+</details>
+<details>
+<summary>Under Review: 😬</summary>
 - Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
 - A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
 - DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
 - Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
 - JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
+</details>
 
 ## Hackathons ✌️
 
