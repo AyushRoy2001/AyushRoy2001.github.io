@@ -79,15 +79,19 @@ Accepted: 😎
 
 Under Review: 😬
   
-1. Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
+1. Split-Net: Splitting Scene text image Can Yield Better Script Identification? (Computer Vision and Pattern Recognition- CVPR’24)
 
-2. A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
+2. EU 2net: A Parameter Efficient Ensembled U2Net Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images. (IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control)
+
+3. Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
+
+4. A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
   
-3. DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
+5. DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
 
-4. Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
+6. Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
 
-5. JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
+7. JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
 
 ## Hackathons ✌️
 
