@@ -73,7 +73,7 @@ Accepted: 😎
 
 5. [Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
 
-6. An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)
+6. [An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Zph67rFs4hoC)
 
 7. [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 
