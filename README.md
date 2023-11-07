@@ -61,7 +61,7 @@ Internships 💫
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
 ## Publications 💪
-Journals: 😎
+**Journals:** 😎
    
 1. [A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
@@ -71,7 +71,7 @@ Journals: 😎
 
 4. [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 
-Conferences: 😬
+**Conferences:** 😬
   
 1. [A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
   
@@ -81,11 +81,11 @@ Conferences: 😬
 
 ## Hackathons ✌️
 
-|2021| MOST INNOVATIVE SOLUTION| **HACK-A-WEB @ NIT BHOPAL**                     |
-|2022| 3RD PRIZE               | **FROSTHACK @ IIT MANDI**                       |
-|2022| TOP 10                  | **Cloud Community Hackday @ GDG Cloud (Google)**|
-|2022| FINALIST                | **404 RESOLVED @ IIT DELHI**                    |
-|2022| FINALIST                | **IEEE R10 Robotics Competition**               |
+|**2021**| **MOST INNOVATIVE SOLUTION**| **HACK-A-WEB @ NIT BHOPAL**                     |
+|**2022**| **3RD PRIZE**               | **FROSTHACK @ IIT MANDI**                       |
+|**2022**| **TOP 10**                  | **Cloud Community Hackday @ GDG Cloud (Google)**|
+|**2022**| **FINALIST**                | **404 RESOLVED @ IIT DELHI**                    |
+|**2022**| **FINALIST**                | **IEEE R10 Robotics Competition**               |
 
 ## Contact me 📫
 
