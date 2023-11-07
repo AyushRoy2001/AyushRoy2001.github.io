@@ -27,7 +27,7 @@ Frameworks:
 ![Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Logo](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-IDEs: :writing_hand:
+IDEs: 🎧
 ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -61,45 +61,31 @@ Internships 💫
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
 ## Publications 💪
-Accepted: 😎
+Journals: 😎
+   
+1. [A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
+
+2. [Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
+
+3. [An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Zph67rFs4hoC)
+
+4. [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
+
+Conferences: 😬
   
 1. [A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
   
 2. [Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
-   
-3. [A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
-4. [Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’22)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
-
-5. [Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
-
-6. [An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Zph67rFs4hoC)
-
-7. [A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
-
-Under Review: 😬
-  
-1. Split-Net: Splitting Scene text image Can Yield Better Script Identification? (Computer Vision and Pattern Recognition- CVPR’24)
-
-2. EU 2net: A Parameter Efficient Ensembled U2Net Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images. (IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control)
-
-3. Nuclei Cell Segmentation in Histopathological Images with Modified Attention U-Net and Knowledge Distillation. (IEEE Transactions on Artificial Intelligence)
-
-4. A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence)
-  
-5. DAU-Net: Dual Attention-aided U-Net for Segmenting Tumor Region in Breast Ultrasound Images. (PLOS One)
-
-6. Deepfake Video Detection by Deep-Feature Stacking and Feature Selection. (Expert Systems with Applications- ESWA)
-
-7. JUHCCR-v1: A Database for Hand-drawn Electrical and Electronics Circuit Component Recognition. (Signal, Image and Video Processing- SIVP)
+3. [Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’22)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
 
 ## Hackathons ✌️
 
-|2021| MOST INNOVATIVE SOLUTION| HACK-A-WEB @ NIT BHOPAL                     |
-|2022| 3RD PRIZE               | FROSTHACK @ IIT MANDI                       |
-|2022| TOP 10                  | Cloud Community Hackday @ GDG Cloud (Google)|
-|2022| FINALIST                | 404 RESOLVED @ IIT DELHI                    |
-|2022| FINALIST                | IEEE R10 Robotics Competition               |
+|2021| MOST INNOVATIVE SOLUTION| **HACK-A-WEB @ NIT BHOPAL**                     |
+|2022| 3RD PRIZE               | **FROSTHACK @ IIT MANDI**                       |
+|2022| TOP 10                  | **Cloud Community Hackday @ GDG Cloud (Google)**|
+|2022| FINALIST                | **404 RESOLVED @ IIT DELHI**                    |
+|2022| FINALIST                | **IEEE R10 Robotics Competition**               |
 
 ## Contact me 📫
 
