@@ -3,10 +3,10 @@
 <div class="circular--portrait">
   <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a0b00685-dcc9-424d-9c43-a5f48de4eb0c" />
 </div>
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. 
-- 🌱 I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)
-- 💞️ I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing.
-- ✌️ I have published in popular computer vision conferences (ICDAR, ACPR) and journals.
+- 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
+- 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
+- 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
+- ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
 
 ## Familiar With 👀
 
