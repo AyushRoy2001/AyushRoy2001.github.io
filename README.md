@@ -62,7 +62,7 @@
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
 ## Publications 💪
-**Journals:** 😎
+**<code style="color: fuchsia">Journals:</code>** 😎
    
 1. [**A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
@@ -72,7 +72,7 @@
 
 4. [**A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 
-**Conferences:** 😬
+**<code style="color: fuchsia">Conferences:</code>** 😬
   
 1. [**A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
   
