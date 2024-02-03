@@ -7,7 +7,7 @@
 - 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
 - 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
 - ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
-- ✌️ **News: Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.**
+- 📳 **News: <p style='color:red'>Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</p>**
 
 ## Familiar With 👀
 
