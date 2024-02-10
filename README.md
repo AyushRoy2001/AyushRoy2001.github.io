@@ -8,6 +8,7 @@
 - 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
 - ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
 - 📳 **News: <code style="color: red">Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
+- 📳 **News: <code style="color: red">Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 
 ## Familiar With 👀
 
