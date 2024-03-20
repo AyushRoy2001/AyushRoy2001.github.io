@@ -9,6 +9,7 @@
 - ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
 - 📳 **News: <code style="color: red">Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **News: <code style="color: red">Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
+- 📳 **News: <code style="color: red">Our paper "A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection" has been accepted at IEEE Transactions on Artificial Intelligence (TAI).</code>**
 
 ## Familiar With 👀
 
