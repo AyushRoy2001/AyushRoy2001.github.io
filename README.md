@@ -1,4 +1,13 @@
-## About Me 😊👋
+## Navigation
+* [About Me](#about-me)
+* [Familiar With](#familiar-with)
+* [Internships](#internships)
+* [Publications](#publications)
+* [Hackathons](#hackathons)
+* [Contact me](#contact-me)
+* [Other links](#other-links)
+
+## About Me 😊👋 <a id="about-me"></a>
 - 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
 - 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
 - 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
@@ -6,7 +15,7 @@
 - 📳 **News: <code style="color: red">Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **News: <code style="color: red">Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 
-## Familiar With 👀
+## Familiar With 👀 <a id="familiar-with"></a>
 
 **🍴Frameworks:** <br/>
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
@@ -30,7 +39,7 @@
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## Internships 💫
+## Internships 💫 <a id="internships"></a>
 
 **<code style="color: blue">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present</code>**
 
@@ -58,7 +67,7 @@
 
 @ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
 
-## Publications 💪
+## Publications 💪 <a id="publications"></a>
 **<code style="color: fuchsia">Journals:</code>** 😎
 
 1. [**A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
@@ -78,7 +87,7 @@
   
 3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’22)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
 
-## Hackathons ✌️
+## Hackathons ✌️ <a id="hackathons"></a>
 
 |**2021**| **MOST INNOVATIVE SOLUTION**| **HACK-A-WEB @ NIT BHOPAL**                     |
 |**2022**| **3RD PRIZE**               | **FROSTHACK @ IIT MANDI**                       |
@@ -86,11 +95,11 @@
 |**2022**| **FINALIST**                | **404 RESOLVED @ IIT DELHI**                    |
 |**2022**| **FINALIST**                | **IEEE R10 Robotics Competition**               |
 
-## Contact me 📫
+## Contact me 📫 <a id="contact-me"></a>
 
 [![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
 
-## Other links ☎️
+## Other links ☎️ <a id="other-links"></a>
 
 [![Google Scholar Logo](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=exgiMpgAAAAJ&hl=en)
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
