@@ -9,7 +9,6 @@
 - ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
 - 📳 **News: <code style="color: red">Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **News: <code style="color: red">Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
-- 📳 **News: <code style="color: red">Our paper "A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection" has been accepted at IEEE Transactions on Artificial Intelligence (TAI).</code>**
 
 ## Familiar With 👀
 
@@ -65,14 +64,16 @@
 
 ## Publications 💪
 **<code style="color: fuchsia">Journals:</code>** 😎
+
+1. [**A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
    
-1. [**A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
+2. [**A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
-2. [**Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
+3. [**Adapting a Swin Transformer for License Plate Number and Text Detection in Drone Images. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:roLk4NBRz8UC)
 
-3. [**An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Zph67rFs4hoC)
+4. [**An Attention based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Zph67rFs4hoC)
 
-4. [**A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
+5. [**A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 
 **<code style="color: fuchsia">Conferences:</code>** 😬
 1. [**A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
