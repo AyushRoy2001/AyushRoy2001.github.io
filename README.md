@@ -38,11 +38,11 @@
 
 **<code style="color: blue">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present</code>**
 
-- *Working on Audio Signal Processing, Image processing, Signal processing, Reinforcement Learning, Microprocessors, and Neural Networks. Used asynchronous Actor-Critic deep Q learning for training the simulated environment. The trained model will be tested on constrained hardware and will be optimized. It is seen that LSTM is improving the performance of the model. Also, made an IOT-based mental stress detector using physiological data and artificial intelligence. Paper accepted in IEEE CATCON’2022 and is also a finalist in IEEE R10 Robotics competition held in Chulalongkorn University, Thailand. Multiple projects in computer vision using transfer learning, ensemble techniques, and feature selection for classification, modified UNET architectures, and distillation for creating novel architectures with domain-specific attention modules for medical image segmentation and copy-move forgery detection. Papers submitted in IEEE Transactions journals.*
+- *<code style="color: green">Working on Audio Signal Processing, Image processing, Signal processing, Reinforcement Learning, Microprocessors, and Neural Networks. Used asynchronous Actor-Critic deep Q learning for training the simulated environment. The trained model will be tested on constrained hardware and will be optimized. It is seen that LSTM is improving the performance of the model. Also, made an IOT-based mental stress detector using physiological data and artificial intelligence. Paper accepted in IEEE CATCON’2022 and is also a finalist in IEEE R10 Robotics competition held in Chulalongkorn University, Thailand. Multiple projects in computer vision using transfer learning, ensemble techniques, and feature selection for classification, modified UNET architectures, and distillation for creating novel architectures with domain-specific attention modules for medical image segmentation and copy-move forgery detection. Papers submitted in IEEE Transactions journals.</code>*
 
-@ CMATER LAB: Supervisor-Prof. Ram Sarkar
+@ <code style="color: pink">CMATER LAB: Supervisor-Prof. Ram Sarkar</code>
 
-@ Power Electronics LAB: Supervisor-Prof. Susanta Ray
+@ <code style="color: pink">Power Electronics LAB: Supervisor-Prof. Susanta Ray</code>
 
 **<code style="color: blue">Research Intern @ Indian Statistical Institute, West Bengal, India Jul 2022 - Present</code>**
 
@@ -54,13 +54,13 @@
 
 - *Created drone license plate text spotting dataset (500 images) and underwater text dataset (300 images). Worked on an anchor-free RPN network using MSER and SWT on the features extracted from a Swin Transformer network. Paper accepted in AIA.*
 
-@ Supervisor-Prof. P Shivakumara
+@ <code style="color: pink">Supervisor-Prof. P Shivakumara</code>
 
 **<code style="color: blue">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
 
 - *Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023.*
 
-@ VIP LAB: Supervisor-Prof. Rajiv Saundararajan
+@ <code style="color: pink">VIP LAB: Supervisor-Prof. Rajiv Saundararajan</code>
 
 ## Publications 💪 <a id="publications"></a>
 **<code style="color: fuchsia">Journals:</code>** 😎
