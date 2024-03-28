@@ -1,8 +1,6 @@
 ## About Me 😊👋
 
-<div class="circular--portrait">
-  <img src="https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/a0b00685-dcc9-424d-9c43-a5f48de4eb0c" />
-</div>
+
 - 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
 - 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
 - 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
@@ -12,7 +10,7 @@
 
 ## Familiar With 👀
 
-**🍴Frameworks:** 
+**🍴Frameworks:** </br>
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
 ![Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +27,7 @@
 ![Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Logo](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-**🎧IDEs:** 
+**🎧IDEs:** </br>
 ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Logo](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Logo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
