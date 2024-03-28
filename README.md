@@ -1,4 +1,3 @@
-## Navigation
 **[About Me](#about-me)** | **[Familiar With](#familiar-with)** | **[Internships](#internships)** | **[Publications](#publications)** | **[Hackathons](#hackathons)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
 
 ## About Me 😊👋 <a id="about-me"></a>
