@@ -7,6 +7,8 @@
 * [Contact me](#contact-me)
 * [Other links](#other-links)
 
+<link rel="stylesheet" href="style.css">
+
 ## About Me 😊👋 <a id="about-me"></a>
 - 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
 - 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
