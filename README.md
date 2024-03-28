@@ -1,13 +1,5 @@
 ## Navigation
-* [About Me](#about-me)
-* [Familiar With](#familiar-with)
-* [Internships](#internships)
-* [Publications](#publications)
-* [Hackathons](#hackathons)
-* [Contact me](#contact-me)
-* [Other links](#other-links)
-
-<link rel="stylesheet" href="style.css">
+**[About Me](#about-me)** | **[Familiar With](#familiar-with)** | **[Internships](#internships)** | **[Publications](#publications)** | **[Hackathons](#hackathons)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
 
 ## About Me 😊👋 <a id="about-me"></a>
 - 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
