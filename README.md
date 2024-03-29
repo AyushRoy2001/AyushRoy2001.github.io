@@ -40,8 +40,7 @@
 
 *<code style="color: green">TOPICS EXPLORED: Biomedical image segmentation using modified UNet architectures and multimodal feature fusion,  IoT-based AI method for mental stress detection, Deepfake classification using task-aware subspace optimization, Multimodal attention mechanism and feature selection for classification. Papers accepted at IEEE Transactions, ISBI, etc.</code>*
 
-@ **<code style="color: fuchsia">CMATER LAB: Supervisor-Prof. Ram Sarkar</code>**
-
+@ **<code style="color: fuchsia">CMATER LAB: Supervisor-Prof. Ram Sarkar</code>**<br/>
 @ **<code style="color: fuchsia">Power Electronics LAB: Supervisor-Prof. Susanta Ray</code>**
 
 **<code style="color: blue">Research Intern @ Indian Statistical Institute, West Bengal, India and @ University of Malaya, Malaysia Jul 2022 - Apr 2024</code>**
