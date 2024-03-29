@@ -3,10 +3,10 @@
 **[About Me](#about-me)** | **[Familiar With](#familiar-with)** | **[Internships](#internships)** | **[Publications](#publications)** | **[Hackathons](#hackathons)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
 
 ## About Me 😊👋 <a id="about-me"></a>
-- 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics** 
-- 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal)**
-- 💞️ **I’m looking for research opportunities in Computer Vision, Robotics, and Signal Processing**
-- ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR) and journals**
+- 👀 **I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. I am currently focused on researching multimodal feature fusion and task-aware feature subspace.** 
+- 🌱 **I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal) and will soon start a PhD at the University of Buffalo under the supervision of Prof. Vishnu Lokhande.**
+- 💞️ **I’m looking for research collaborations in Computer Vision for Biometrics, Biomedical Imaging,  and Signal Processing**
+- ✌️ **I have published in popular computer vision conferences (ICDAR, ACPR, ISBI) and journals (IEEE Transactions)**
 - 📳 **News: <code style="color: red">Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **News: <code style="color: red">Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 
@@ -36,29 +36,24 @@
 
 ## Internships 💫 <a id="internships"></a>
 
-**<code style="color: blue">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - Present</code>**
+**<code style="color: blue">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - April 2024</code>**
 
-*<code style="color: green">Working on Audio Signal Processing, Image processing, Signal processing, Reinforcement Learning, Microprocessors, and Neural Networks. Used asynchronous Actor-Critic deep Q learning for training the simulated environment. The trained model will be tested on constrained hardware and will be optimized. It is seen that LSTM is improving the performance of the model. Also, made an IOT-based mental stress detector using physiological data and artificial intelligence. Paper accepted in IEEE CATCON’2022 and is also a finalist in IEEE R10 Robotics competition held in Chulalongkorn University, Thailand. Multiple projects in computer vision using transfer learning, ensemble techniques, and feature selection for classification, modified UNET architectures, and distillation for creating novel architectures with domain-specific attention modules for medical image segmentation and copy-move forgery detection. Papers submitted in IEEE Transactions journals.</code>*
+*<code style="color: green">TOPICS EXPLORED: Biomedical image segmentation using modified UNet architectures and multimodal feature fusion,  IoT-based AI method for mental stress detection, Deepfake classification using task-aware subspace optimization, Multimodal attention mechanism and feature selection for classification. Papers accepted at IEEE Transactions, ISBI, etc.</code>*
 
 @ **<code style="color: fuchsia">CMATER LAB: Supervisor-Prof. Ram Sarkar</code>**
 
 @ **<code style="color: fuchsia">Power Electronics LAB: Supervisor-Prof. Susanta Ray</code>**
 
-**<code style="color: blue">Research Intern @ Indian Statistical Institute, West Bengal, India Jul 2022 - Present</code>**
+**<code style="color: blue">Research Intern @ Indian Statistical Institute, West Bengal, India and @ University of Malaya, Malaysia Jul 2022 - Apr 2024</code>**
 
-*<code style="color: green">Created drone license plate text spotting dataset (500 images) and underwater text dataset (300 images). Further, a modified Yolo-v5 architecture with a transformer classification head and a novel FPCBAM attention mechanism is trained for drone and underwater image text detection. Partial convolution in the backbone is explored in this experimentation. To be submitted to Pattern Recognition. Also, Script identification using Vision Language models (VLMs) and distillation to tackle spatial inductive bias in transformer networks and modeling a lightweight network VLM is explored. Utilized modified lightweight CNN architecture for real-time facial emotion recognition. Paper accepted in ACPR’2023.</code>*
+*<code style="color: green">TOPICS EXPLORED: Scene text detection using multimodal feature fusion and attention mechanisms, Emotion Recognition using lightweight CNN, Text style transfer, Script Identification using hybrid CNN-Transformer for spatial inductive bias and gradient-based feature fusion, Multi-scale feature fusion for water meter digit recognition. Papers accepted in IJPRAI, ACPR’2023, etc.</code>*
 
 @ **<code style="color: fuchsia">Computer Vision and Pattern Recognition Unit: Supervisor-Prof. Umapada Pal</code>**
-
-**<code style="color: blue">Research Intern @ University of Malaya, Malaysia Jul 2022 – September 2022</code>**
-
-*<code style="color: green">Created drone license plate text spotting dataset (500 images) and underwater text dataset (300 images). Worked on an anchor-free RPN network using MSER and SWT on the features extracted from a Swin Transformer network. Paper accepted in AIA.</code>*
-
 @ **<code style="color: fuchsia">Supervisor-Prof. P Shivakumara</code>**
 
 **<code style="color: blue">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
 
-*<code style="color: green">Used CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities. To be submitted to CVPR 2023.</code>*
+*<code style="color: green">TOPICS EXPLORED: CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities.</code>*
 
 @ **<code style="color: fuchsia">VIP LAB: Supervisor-Prof. Rajiv Saundararajan</code>**
 
