@@ -48,7 +48,7 @@
 
 *<code style="color: green">TOPICS EXPLORED: Scene text detection using multimodal feature fusion and attention mechanisms, Emotion Recognition using lightweight CNN, Text style transfer, Script Identification using hybrid CNN-Transformer for spatial inductive bias and gradient-based feature fusion, Multi-scale feature fusion for water meter digit recognition. Papers accepted in IJPRAI, ACPR’2023, etc.</code>*
 
-@ **<code style="color: fuchsia">Computer Vision and Pattern Recognition Unit: Supervisor-Prof. Umapada Pal</code>**
+@ **<code style="color: fuchsia">Computer Vision and Pattern Recognition Unit: Supervisor-Prof. Umapada Pal</code>**<br/>
 @ **<code style="color: fuchsia">Supervisor-Prof. P Shivakumara</code>**
 
 **<code style="color: blue">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
