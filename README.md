@@ -76,7 +76,8 @@
 
 2. [**Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
   
-3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
+3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)[![CATCON Logo](![image](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/2967d132-b3d7-49af-ab2f-6678f9bc3bd1)
+)]
 
 ## Hackathons ✌️ <a id="hackathons"></a>
 
