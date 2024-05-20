@@ -72,13 +72,11 @@
 5. [**A Robust SLIC Based Approach for Segmentation using Canny Edge detector. (Artificial Intelligence and Applications- AIA)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:hqOjcs7Dif8C)
 
 **<code style="color: fuchsia">Conferences:</code>** 😬
-1. [**A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)[![ACPR Logo](https://i.imgur.com/your_acpr_logo.png)]
+1. [**A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC)
 
 2. [**Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
   
-3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)[![CATCON Logo](![image](https://github.com/AyushRoy2001/AyushRoy2001.github.io/assets/94052139/2967d132-b3d7-49af-ab2f-6678f9bc3bd1)
-)]
-
+3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
 ## Hackathons ✌️ <a id="hackathons"></a>
 
 |**2021**| **MOST INNOVATIVE SOLUTION**| **HACK-A-WEB @ NIT BHOPAL**                     |
