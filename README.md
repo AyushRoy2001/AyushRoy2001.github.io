@@ -4,10 +4,10 @@
 
 ## About Me 😊👋 <a id="about-me"></a>
 
-- 👀 **<code style="color: yellow">I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. I am currently focused on researching multimodal feature fusion and task-aware feature subspace.</code>** 
-- 🌱 **<code style="color: yellow">I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal) and will soon start a PhD at the University of Buffalo under the supervision of Prof. Vishnu Lokhande.</code>**
-- 💞️ **<code style="color: yellow">I’m looking for research collaborations in Computer Vision for Biometrics, Biomedical Imaging,  and Signal Processing.</code>**
-- ✌️ **<code style="color: yellow">I have published in popular computer vision conferences (ICDAR, ACPR, ISBI, MIUA) and journals (IEEE Transactions).</code>**
+- 👀 **<code style="color: #E8EA60">I’m interested in Machine Learning, Deep Learning, Computer Vision, and Robotics. I am currently focused on researching multimodal feature fusion and task-aware feature subspace.</code>** 
+- 🌱 **<code style="color: #E8EA60">I’m currently an Electrical Engineering undergraduate at Jadavpur University(India, West Bengal) and will soon start a PhD at the University of Buffalo under the supervision of Prof. Vishnu Lokhande.</code>**
+- 💞️ **<code style="color: #E8EA60">I’m looking for research collaborations in Computer Vision for Biometrics, Biomedical Imaging,  and Signal Processing.</code>**
+- ✌️ **<code style="color: #E8EA60">I have published in popular computer vision conferences (ICDAR, ACPR, ISBI, MIUA) and journals (IEEE Transactions).</code>**
 - 📳 **<code style="color: #ffcccc">News: Our paper "GRU-Net: Gaussian attention aided dense skip connection based  multiResU-Net for Breast Histopathology Image Segmentation" has been accepted for presentation at the MIUA 2024 to be held in Manchester, England on July 24 – 26, 2024.</code>**
 - 📳 **<code style="color: #ffcccc">News: Our paper "AWGUNet: Attention-aided Wavelet Guided U-net for nuclei segmentation in histopathology images" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **<code style="color: #ffcccc">News: Our paper "A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion" has been accepted for presentation at the ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
@@ -41,21 +41,21 @@
 
 **<code style="color: #ffcccc">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - April 2024</code>**
 
-*<code style="color: yellow">TOPICS EXPLORED: Biomedical image segmentation using modified UNet architectures and multimodal feature fusion,  IoT-based AI method for mental stress detection, Deepfake classification using task-aware subspace optimization, Multimodal attention mechanism and feature selection for classification. Papers accepted at IEEE Transactions, ISBI, etc.</code>*
+*<code style="color: #E8EA60">TOPICS EXPLORED: Biomedical image segmentation using modified UNet architectures and multimodal feature fusion,  IoT-based AI method for mental stress detection, Deepfake classification using task-aware subspace optimization, Multimodal attention mechanism and feature selection for classification. Papers accepted at IEEE Transactions, ISBI, etc.</code>*
 
 @ **<code style="color: fuchsia">CMATER LAB: Supervisor-Prof. Ram Sarkar</code>**<br/>
 @ **<code style="color: fuchsia">Power Electronics LAB: Supervisor-Prof. Susanta Ray</code>**
 
 **<code style="color: #ffcccc">Research Intern @ Indian Statistical Institute, West Bengal, India and @ University of Malaya, Malaysia Jul 2022 - Apr 2024</code>**
 
-*<code style="color: yellow">TOPICS EXPLORED: Scene text detection using multimodal feature fusion and attention mechanisms, Emotion Recognition using lightweight CNN, Text style transfer, Script Identification using hybrid CNN-Transformer for spatial inductive bias and gradient-based feature fusion, Multi-scale feature fusion for water meter digit recognition. Papers accepted in IJPRAI, ACPR’2023, etc.</code>*
+*<code style="color: #E8EA60">TOPICS EXPLORED: Scene text detection using multimodal feature fusion and attention mechanisms, Emotion Recognition using lightweight CNN, Text style transfer, Script Identification using hybrid CNN-Transformer for spatial inductive bias and gradient-based feature fusion, Multi-scale feature fusion for water meter digit recognition. Papers accepted in IJPRAI, ACPR’2023, etc.</code>*
 
 @ **<code style="color: fuchsia">Computer Vision and Pattern Recognition Unit: Supervisor-Prof. Umapada Pal</code>**<br/>
 @ **<code style="color: fuchsia">Supervisor-Prof. P Shivakumara</code>**
 
 **<code style="color: #ffcccc">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
 
-*<code style="color: yellow">TOPICS EXPLORED: CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities.</code>*
+*<code style="color: #E8EA60">TOPICS EXPLORED: CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities.</code>*
 
 @ **<code style="color: fuchsia">VIP LAB: Supervisor-Prof. Rajiv Saundararajan</code>**
 
