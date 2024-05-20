@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="style.css">
-
+<body style="background-color: #222; color: #ddd;">
 
 **[About Me](#about-me)** | **[Familiar With](#familiar-with)** | **[Internships](#internships)** | **[Publications](#publications)** | **[Hackathons](#hackathons)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
 
