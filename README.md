@@ -78,6 +78,7 @@
 2. [**<code style="color: white">Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC)
   
 3. [**<code style="color: white">Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
+
 ## Hackathons ✌️ <a id="hackathons"></a>
 
 |**<code style="color: #ffcccc">2021</code>**| **<code style="color: #ffcccc">MOST INNOVATIVE SOLUTION</code>**| **<code style="color: #ffcccc">HACK-A-WEB @ NIT BHOPAL</code>**                     |
