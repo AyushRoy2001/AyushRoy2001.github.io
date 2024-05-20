@@ -52,7 +52,7 @@
 @ **<code style="color: fuchsia">Computer Vision and Pattern Recognition Unit: Supervisor-Prof. Umapada Pal</code>**<br/>
 @ **<code style="color: fuchsia">Supervisor-Prof. P Shivakumara</code>**
 
-**<code style="color: blue">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
+**<code style="color: light blue">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
 
 *<code style="color: yellow">TOPICS EXPLORED: CLIP for supervised NR IQA. Finetuning the image encoder with a custom cross-entropy loss for regression and creating an optimal subspace using quality-relevant text prompts and Gram-Schmidt orthonormalization. Finally, the image embeddings are projected into the subspace to calculate the MOS score with the help of cosine similarities.</code>*
 
@@ -79,11 +79,11 @@
 3. [**Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC)
 ## Hackathons ✌️ <a id="hackathons"></a>
 
-|**<code style="color: yellow">2021**| **<code style="color: yellow">MOST INNOVATIVE SOLUTION**| **<code style="color: yellow">HACK-A-WEB @ NIT BHOPAL**                     |
-|**<code style="color: yellow">2022**| **<code style="color: yellow">3RD PRIZE**               | **<code style="color: yellow">FROSTHACK @ IIT MANDI**                       |
-|**<code style="color: yellow">2022**| **<code style="color: yellow">TOP 10**                  | **<code style="color: yellow">Cloud Community Hackday @ GDG Cloud (Google)**|
-|**<code style="color: yellow">2022**| **<code style="color: yellow">FINALIST**                | **<code style="color: yellow">404 RESOLVED @ IIT DELHI**                    |
-|**<code style="color: yellow">2022**| **<code style="color: yellow">FINALIST**                | **<code style="color: yellow">IEEE R10 Robotics Competition**               |
+|**2021**| **MOST INNOVATIVE SOLUTION**| **HACK-A-WEB @ NIT BHOPAL**                     |
+|**2022**| **3RD PRIZE**               | **FROSTHACK @ IIT MANDI**                       |
+|**2022**| **TOP 10**                  | **Cloud Community Hackday @ GDG Cloud (Google)**|
+|**2022**| **FINALIST**                | **404 RESOLVED @ IIT DELHI**                    |
+|**2022**| **FINALIST**                | **IEEE R10 Robotics Competition**               |
 
 ## Contact me 📫 <a id="contact-me"></a>
 
