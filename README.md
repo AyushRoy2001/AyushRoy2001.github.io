@@ -64,7 +64,7 @@
 
 1. [**<code style="color: white">A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
    
-2. [**<code style="color: white">DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images. (PLOS ONE)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670)
+2. [**<code style="color: white">DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images. (PLOS ONE)</code>**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670)
    
 3. [**<code style="color: white">A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
