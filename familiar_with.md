@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Familiar With 👀 <a id="familiar-with"></a>
 
 **🍴Frameworks:** <br/>
