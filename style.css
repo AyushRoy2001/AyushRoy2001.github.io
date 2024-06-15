@@ -31,8 +31,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #333; /* Darker gray for headings */
 }
 
-/* pre, code {
-  background-color: #222; /* Dark gray for code blocks */
-  color: #eee; /* Light color for code text */
-} */
+pre, code {
+  background-color: #f8f9fa; /* Light gray for code blocks */
+  color: #000; /* Black text color for code */
+} 
 
