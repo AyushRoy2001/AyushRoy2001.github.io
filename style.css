@@ -1,5 +1,5 @@
 #### DARK THEME
-body {
+/* body {
   background-color: #222; 
   color: #ddd; 
 }
@@ -10,7 +10,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   color: #F3F606; 
-}
+} */
 
 pre, code {
   background-color: #333; 
