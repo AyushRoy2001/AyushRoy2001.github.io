@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css">
 
-**[Familiar With](familiar_with.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
-## Experience 💫 <a id="experience"></a>
+## Internships 💫 <a id="experience"></a>
 
 **<code style="color: #FF8C00">Undergraduate Researcher @ Jadavpur University, West Bengal, India Jan 2022 - April 2024</code>**
 
