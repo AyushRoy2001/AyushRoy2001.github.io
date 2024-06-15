@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**[About Me](#about-me)** | **[Familiar With](familiar_with.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
+**[Familiar With](familiar_with.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** | **[Contact me](#contact-me)** | **[Other links](#other-links)**
 
 ## Hackathons ✌️ <a id="hackathons"></a>
 
