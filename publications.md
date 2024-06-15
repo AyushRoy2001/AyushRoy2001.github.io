@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
-**[Familiar With](familiar_with.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
-## Publications 💪 <a id="publications"></a>
 **<code style="color: fuchsia">Journals:</code>** 😎
 
 1. [**<code style="color: #222">A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
