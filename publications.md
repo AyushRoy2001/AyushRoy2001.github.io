@@ -4,7 +4,7 @@
 
 **<code style="color: fuchsia">Journals:</code>** 😎
 
-## [[A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection.]][(https://imgur.com/a/vrrJnYu)]([https://ieeexplore.ieee.org/abstract/document/10478450])
+## [[A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection.]][(https://imgur.com/gallery/spam-cmfd-vrrJnYu)]([https://ieeexplore.ieee.org/abstract/document/10478450])
 
 **Authors:** Ayush Roy, Sk Mohiuddin, Ram Sarkar
 **Abstract:** The prevalent form of image manipulation in digital images is a copy-move forgery. Its detection poses a significant challenge due to its vulnerability to advanced image editing techniques. Additionally, the extensive range of forgery types employed by malicious actors contribute to the complexity in detection. In this work, we introduce a novel approach for identifying copy-move forgery in images. Our method leverages a deep neural network that is augmented with similarity-based positional attention, using fewer parameters to ensure efficient real-time application. It has achieved a substantial improvement in model performance, accomplished by reducing trainable parameters by 50% compared to its base model, MultiResUnet. This method is applicable for forensic examination of images and can be employed to flag counterfeit images during the upload process on social platforms.
