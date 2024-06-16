@@ -5,7 +5,7 @@ description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Sc
 google_analytics: 
 theme: jekyll-theme-minimal
 
-# Font Variables
-base_font: "Open Sans", sans-serif
-heading_font: "Roboto Slab", serif
+base_font: "Segoe Script", cursive  # Body text
+heading_font: "Forte", cursive  # Headings
+
 
