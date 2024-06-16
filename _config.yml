@@ -2,5 +2,5 @@ title: Ayush Roy-Homepage
 logo: /assets/img/DP.png
 description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Science and Engineering
 # show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
