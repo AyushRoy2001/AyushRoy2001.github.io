@@ -36,21 +36,28 @@ pre, code {
   color: #000; /* Black text color for code */
 } 
 
-/* Import fonts from external sources (replace with actual font URLs) */
+#### FONT STYLE
 @font-face {
-  font-family: 'Open Sans';
-  src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  font-family: 'Segoe Script';
+  src: url('https://fonts.googleapis.com/css2?family=Segoe+Script&display=swap');
 }
 
 @font-face {
-  font-family: 'Roboto Slab';
-  src: url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+  font-family: 'Forte';
+  src: url('https://fonts.googleapis.com/css2?family=Forte&display=swap');
 }
 
-/* Use variables in your styles */
-body {
-  font-family: var(--base-font);
+/* Animations (adjust timing and effects as desired) */
+h1, h2, h3 {
+  font-family: var(--heading-font);
+  animation: heading-animate 2s ease-in-out infinite alternate;
 }
+
+@keyframes heading-animate {
+  from { transform: translateY(0); }
+  to { transform: translateY(-5px); }
+}
+
 
 h1, h2, h3 {
   font-family: var(--heading-font);
