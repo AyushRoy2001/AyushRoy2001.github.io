@@ -2,14 +2,6 @@
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
-## [[A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection.]][(paper logo/SPAM.png)]([https://ieeexplore.ieee.org/abstract/document/10478450])
-**Authors:** Ayush Roy, Sk Mohiuddin, Ram Sarkar
-**Abstract:** ...
-
-## [[Publication Title 2]]([(images/logo2.png)]([link/to/publication/website]))
-**Authors:** ...
-**Abstract:** ...
-
 **<code style="color: fuchsia">Journals:</code>** 😎
 1. [**<code style="color: #222">A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
    
