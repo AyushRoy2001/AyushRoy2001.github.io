@@ -1,8 +1,8 @@
-title: Ayush Roy
+title: Ayush Roy-Homepage
 logo: /assets/img/DP.png
 description: Personal Website
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
-# remote_theme: pages-themes/architect@v0.2.0
-# plugins:
-# - jekyll-remote-theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
