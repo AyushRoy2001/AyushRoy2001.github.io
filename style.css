@@ -36,3 +36,24 @@ pre, code {
   color: #000; /* Black text color for code */
 } 
 
+/* Import fonts from external sources (replace with actual font URLs) */
+@font-face {
+  font-family: 'Open Sans';
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+}
+
+/* Use variables in your styles */
+body {
+  font-family: var(--base-font);
+}
+
+h1, h2, h3 {
+  font-family: var(--heading-font);
+}
+
+
