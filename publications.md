@@ -4,6 +4,11 @@
 
 **<code style="color: fuchsia">Journals:</code>** 😎
 
+## [[A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection.]][(link/to/logo.png)]([link/to/publication/website](https://ieeexplore.ieee.org/abstract/document/10478450))
+
+**Authors:** Ayush Roy, Sk Mohiuddin, Ram Sarkar
+**Abstract:** The prevalent form of image manipulation in digital images is a copy-move forgery. Its detection poses a significant challenge due to its vulnerability to advanced image editing techniques. Additionally, the extensive range of forgery types employed by malicious actors contribute to the complexity in detection. In this work, we introduce a novel approach for identifying copy-move forgery in images. Our method leverages a deep neural network that is augmented with similarity-based positional attention, using fewer parameters to ensure efficient real-time application. It has achieved a substantial improvement in model performance, accomplished by reducing trainable parameters by 50% compared to its base model, MultiResUnet. This method is applicable for forensic examination of images and can be employed to flag counterfeit images during the upload process on social platforms.
+
 1. [**<code style="color: #222">A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
    
 2. [**<code style="color: #222">DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images. (PLOS ONE)</code>**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670)
