@@ -4,10 +4,12 @@
 
 **<code style="color: fuchsia">Journals:</code>** 😎
 1. [**<code style="color: #222">A Similarity-based Positional Attention aided Deep Learning Model for Copy-Move Forgery Detection. (IEEE Transactions on Artificial Intelligence- TAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:ULOm3_A8WrAC)
+
+2.  [**<code style="color: #222">EU2 – Net: A Parameter Efficient Ensemble Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images. (IEEE Transactions on Instrumentation and Measurement- TIM)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:4DMP91E08xMC)
    
-2. [**<code style="color: #222">DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images. (PLOS ONE)</code>**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670)
+3. [**<code style="color: #222">DAU-Net: Dual attention-aided U-Net for segmenting tumor in breast ultrasound images. (PLOS ONE)</code>**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0303670)
    
-3. [**<code style="color: #222">A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
+4. [**<code style="color: #222">A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:KlAtU1dfN6UC)
 
 **<code style="color: fuchsia">Conferences:</code>** 😬
 1. [**<code style="color: #222">A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC) <code style="color: red">ORAL</code>
