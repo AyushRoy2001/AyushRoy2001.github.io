@@ -1,42 +1,51 @@
-#### DARK THEME
-/* body {
-  background-color: #222; 
-  color: #ddd; 
+/* Theme Switcher (Optional) */
+.theme-switcher {
+  /* Add styles for your theme toggling button here */
 }
 
-a {
-  color: #淡藍色; 
+/* Dark Theme */
+.dark-theme {
+  body {
+    background-color: #222;
+    color: #ddd;
+  }
+
+  a {
+    color: #add8e6; /* Light blue in hex for better readability */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #F3F606;
+  }
+
+  pre, code {
+    background-color: #333;
+    color: #eee;
+  }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #F3F606; 
-} */
+/* Light Theme */
+.light-theme {
+  body {
+    background-color: #fff;
+    color: #000;
+  }
 
-pre, code {
-  background-color: #333; 
-  color: #eee; 
+  a {
+    color: #007bff; /* Blue for links */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Darker gray for headings */
+  }
+
+  pre, code {
+    background-color: #f8f9fa; /* Light gray for code blocks */
+    color: #000; /* Black text color for code */
+  }
 }
 
-#### LIGHT THEME
-body {
-  background-color: #fff; /* White background color */
-  color: #000; /* Black text color */
-}
-
-a {
-  color: #007bff; /* Blue for links */
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #333; /* Darker gray for headings */
-}
-
-pre, code {
-  background-color: #f8f9fa; /* Light gray for code blocks */
-  color: #000; /* Black text color for code */
-} 
-
-#### FONT STYLE
+/* Font Styles */
 @font-face {
   font-family: 'Segoe Script';
   src: url('https://fonts.googleapis.com/css2?family=Segoe+Script&display=swap');
@@ -44,10 +53,7 @@ pre, code {
 
 @font-face {
   font-family: 'Forte';
-  src: url('https://fonts.googleapis.com/css2?family=Forte&display=swap');
-}
-
-/* Animations (adjust timing and effects as desired) */
+  src: url('https://fonts. Inheritance makes h1-h3 inherit the font-family from the variable */
 h1, h2, h3 {
   font-family: var(--heading-font);
   animation: heading-animate 2s ease-in-out infinite alternate;
@@ -57,10 +63,3 @@ h1, h2, h3 {
   from { transform: translateY(0); }
   to { transform: translateY(-5px); }
 }
-
-
-h1, h2, h3 {
-  font-family: var(--heading-font);
-}
-
-
