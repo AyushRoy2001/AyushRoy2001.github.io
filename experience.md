@@ -20,6 +20,6 @@
 
 **<code style="color: #FF8C00">Summer Research Intern @ IISc, Bangalore, India Jul 2023 – September 2023</code>**
 
-*<code style="color: #222">WORKED OND: CLIP for supervised NR IQA (Image Quality Assessment).</code>*
+*<code style="color: #222">WORKED ON: CLIP for supervised NR IQA (Image Quality Assessment).</code>*
 
 @ **<code style="color: fuchsia">VIP LAB: Supervisor-Prof. Rajiv Saundararajan</code>**
