@@ -12,10 +12,10 @@
 4. [**<code style="color: #222">A New Lightweight Script Independent Scene Text Style Transfer Network. (International Journal of Pattern Recognition and Artificial Intelligence- IJPRAI)</code>**](https://www.worldscientific.com/doi/abs/10.1142/S0218001423530038)
 
 **<code style="color: fuchsia">Conferences:</code>** 😬
-1. [**<code style="color: #222">A New Lightweight Attention-based Model for Emotions Recognition Using Distorted Social Media Face Images in Real-Time Environment. (Asian Conference on Pattern Recognition- ACPR’2023)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:8k81kl-MbHgC) ***<code style="color: ##FC465B">ORAL</code>***
+1. [**<code style="color: #222">AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images. (ISBI 2024)</code>**](https://arxiv.org/abs/2406.08425) ***<code style="color: ##FC465B">ORAL</code>***
 
-2. [**<code style="color: #222">Fourier Feature-based CBAM and Vision Transformer for Text Detection in Drone Images. (International Conference on Document Analysis and Recognition Workshop on Machine Learning- ICDAR WML’2023)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:Se3iqnhoufwC) 
+2. [**<code style="color: #222">GRU-Net: Gaussian Attention Aided Dense Skip Connection Based MultiResUNet for Breast Histopathology Image Segmentation. (MIUA 2024)</code>**](https://link.springer.com/chapter/10.1007/978-3-031-66955-2_21) ***<code style="color: ##FC465B">ORAL</code>***
   
-3. [**<code style="color: #222">Identification and Classification of Human Mental Stress using Physiological Data: A Low-Power Hybrid Approach. (IEEE International Conference on Condition Assessment Techniques in Electrical Systems- IEEE CATCON’2022)</code>**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=exgiMpgAAAAJ&citation_for_view=exgiMpgAAAAJ:LkGwnXOMwfcC) ***<code style="color: ##FC465B">ORAL</code>***
+3. [**<code style="color: #222">A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion. (ISBI 2024)</code>**](https://arxiv.org/abs/2406.15128) 
 
 ***All publications can be found in my Google Scholar.***
