@@ -5,7 +5,7 @@
 **<code style="color: fuchsia">Conferences:</code>** 
 1. [**<code style="color: #222">AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images. (ISBI 2024)</code>**](https://arxiv.org/abs/2406.08425) ***<code style="color: ##FC465B">ORAL</code>***
 
-2. [**<code style="color: #222">GRU-Net: Gaussian Attention Aided Dense Skip Connection Based MultiResUNet for Breast Histopathology Image Segmentation. (MIUA 2024)</code>**](https://link.springer.com/chapter/10.1007/978-3-031-66955-2_21) ***<code style="color: ##FC465B">ORAL</code>***
+2. [**<code style="color: #222">XLSI: A New Xception and Log Polar Transform Based Approach for Scene Text Script Identification. (ICPR 2024)</code>**](https://link.springer.com/chapter/10.1007/978-3-031-78495-8_12)
   
 3. [**<code style="color: #222">A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion. (ISBI 2024)</code>**](https://arxiv.org/abs/2406.15128)
 
@@ -17,5 +17,6 @@
 3. [**<code style="color: #222">A novel domain independent scene text localizer. (Pattern Recognition)</code>**](https://www.sciencedirect.com/science/article/pii/S0031320324007660)
 
 ***All publications can be found in my Google Scholar.***
+
 
 
