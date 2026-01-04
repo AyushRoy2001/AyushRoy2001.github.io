@@ -2,6 +2,8 @@
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
+***All publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=Z3RZLPMAAAAJ&hl=en).***
+
 **<code style="color: fuchsia">Conferences:</code>** 
 1. [**<code style="color: #222">AWGUNET: Attention-Aided Wavelet Guided U-Net for Nuclei Segmentation in Histopathology Images. (ISBI 2024)</code>**](https://arxiv.org/abs/2406.08425) ***<code style="color: ##FC465B">ORAL</code>***
 
@@ -16,7 +18,6 @@
    
 3. [**<code style="color: #222">A novel domain independent scene text localizer. (Pattern Recognition)</code>**](https://www.sciencedirect.com/science/article/pii/S0031320324007660)
 
-***All publications can be found in my Google Scholar.***
 
 
 
