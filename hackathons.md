@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="style.css">
-<button class="theme-switcher" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓</button>
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
@@ -10,4 +9,5 @@
 |**<code style="color: #FF8C00">2022</code>**| **<code style="color: #FF8C00">TOP 10</code>**                  | **<code style="color: #FF8C00">Cloud Community Hackday @ GDG Cloud (Google)</code>**|
 |**<code style="color: #FF8C00">2022</code>**| **<code style="color: #FF8C00">FINALIST</code>**                | **<code style="color: #FF8C00">404 RESOLVED @ IIT DELHI</code>**                    |
 |**<code style="color: #FF8C00">2022</code>**| **<code style="color: #FF8C00">FINALIST</code>**                | **<code style="color: #FF8C00">IEEE R10 Robotics Competition</code>**               |
+
 
