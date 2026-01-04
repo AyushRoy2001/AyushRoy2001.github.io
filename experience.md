@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<button class="theme-switcher" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓</button>
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
@@ -23,3 +24,4 @@
 *<code style="color: #222">WORKED ON: CLIP for supervised NR IQA (Image Quality Assessment).</code>*
 
 @ **<code style="color: fuchsia">VIP LAB: Supervisor-Prof. Rajiv Saundararajan</code>**
+
