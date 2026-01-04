@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<button class="theme-switcher" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓</button>
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
@@ -17,6 +18,7 @@
 3. [**<code style="color: #222">A novel domain independent scene text localizer. (Pattern Recognition)</code>**](https://www.sciencedirect.com/science/article/pii/S0031320324007660)
 
 ***All publications can be found in my Google Scholar.***
+
 
 
 
