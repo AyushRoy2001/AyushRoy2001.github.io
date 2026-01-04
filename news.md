@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<button class="theme-switcher" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓</button>
 
 **[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
 
@@ -11,4 +12,5 @@
 - 📳 **<code style="color: #FC465B">One paper has been accepted for presentation at MIUA 2024 to be held in Manchester, England on July 24 – 26, 2024.</code>**
 - 📳 **<code style="color: #FC465B">Two papers have been accepted for presentation at ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted for presentation at IEEE CBMS 2024 to be held in Guadalajara, Mexico on June 26 – 28, 2024.</code>**
+
 
