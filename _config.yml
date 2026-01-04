@@ -1,10 +1,21 @@
+# # MINIMAL STYLE
+# title: Ayush Roy-Homepage
+# logo: /assets/img/dp.jpeg
+# description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Science and Engineering
+# # show_downloads: true
+# theme: jekyll-theme-minimal
+# # base_font: "Segoe Script", cursive  # Body text
+# # heading_font: "Forte", cursive  # Headings
+
+# YAT STYLE
 title: Ayush Roy-Homepage
 logo: /assets/img/dp.jpeg
 description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Science and Engineering
 # show_downloads: true
-theme: jekyll-theme-minimal
-
+remote_theme: jeffreytse/jekyll-theme-yat
+   banner:
+     image: /assets/img/dp.jpg
+   plugins:
+     - jekyll-remote-theme
 # base_font: "Segoe Script", cursive  # Body text
 # heading_font: "Forte", cursive  # Headings
-
-
