@@ -9,7 +9,7 @@
 ☎️
 - 👀 **<code style="color: #222">As a second-year Ph.D. student in Computer Science at the State University of New York at Buffalo, I am affiliated with the UB CVML group and being supervised by Prof. Vishnu Lokhande.</code>** 
 - 🌱 **<code style="color: #222">I completed my bachelor's in Electrical Engineering at Jadavpur University in West Bengal, India. During my studies, I gained experience in Computer Vision by working with Prof. Ram Sarkar and as an intern under the supervision of Prof. P. Shivakumara and Prof. Umapada Pal. I participated in numerous hackathons and was a finalist at the IEEE R10 Robotics Competiton, 2022 held at Chulalongkorn University, Thailand.</code>**
-- ✌️ **<code style="color: #222">I have published in popular computer vision conferences (ICPR, ICDAR, ACPR, ISBI, MIUA) and journals (IEEE Transactions).</code>**
+- ✌️ **<code style="color: #222">I have published in popular computer vision conferences (ICPR, ICDAR, ACPR, ISBI, MIUA, MIDL, AISTATS, CVPR) and journals (IEEE Transactions).</code>**
 
 #### Familiar With 👌
 
