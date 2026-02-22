@@ -4,7 +4,7 @@
 
 ## About Me 😊👋
 [![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
-[![Google Scholar](https://img.shields.io)](https://scholar.google.com/citations?user=Z3RZLPMAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Z3RZLPMAAAAJ&hl=en)
 [![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-roy-59a79b223/)
 ☎️
 - 👀 **<code style="color: #222">As a second-year Ph.D. student in Computer Science at the State University of New York at Buffalo, I am affiliated with the UB CVML group and being supervised by Prof. Vishnu Lokhande.</code>** 
