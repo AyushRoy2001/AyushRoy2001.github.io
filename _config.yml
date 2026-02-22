@@ -4,16 +4,3 @@ logo: /assets/img/dp.jpeg
 description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Science and Engineering
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-# YAT STYLE
-# title: Ayush Roy-Homepage
-# logo: /assets/img/dp.jpeg
-# description: PhD Student @ SUNY BUFFALO @ CVML group @ Department of Computer Science and Engineering
-# # show_downloads: true
-# remote_theme: jekyll/minima
-# minima:
-#   skin: auto
-#    banner:
-#      image: /assets/img/dp.jpg
-#    plugins:
-#      - jekyll-remote-theme
