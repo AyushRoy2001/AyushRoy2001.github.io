@@ -7,6 +7,8 @@
 - 📳 **<code style="color: #FC465B">One papers have been accepted at CVPR 2026 to be held in Denver, Colorado on June 05-07, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One papers have been accepted at MIDL 2026 to be held in Taipei, Taiwan on July 08-10, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One papers have been accepted at AISTATS 2026 to be held in Tangier, Morocco on May 02-05, 2026.</code>**
+- 📳 **<code style="color: Green"> Started internship as a summer research intern in Lawrence Livermore National Lab (LLNL) on August 22, 2026.</code>**
+- 📳 **<code style="color: #FC465B">One papers have been accepted at TMLR.</code>**
 
 ***2024***
 - 📳 **<code style="color: Green"> Started my PhD on August 17, 2024 under the supervision of Prof. Vishnu Lokhande at the University of Buffalo (SUNY).</code>**
