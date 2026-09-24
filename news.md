@@ -9,6 +9,7 @@
 - 📳 **<code style="color: #FC465B">One papers have been accepted at AISTATS 2026 to be held in Tangier, Morocco on May 02-05, 2026.</code>**
 - 📳 **<code style="color: Green"> Started internship as a summer research intern in Lawrence Livermore National Lab (LLNL) on August 22, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One papers have been accepted at TMLR.</code>**
+- 📳 **<code style="color: #FC465B">One papers have been accepted at NeurIPS 2026 to be held in Atlanta, USA on Dec 08-13, 2026.</code>**
 
 ***2024***
 - 📳 **<code style="color: Green"> Started my PhD on August 17, 2024 under the supervision of Prof. Vishnu Lokhande at the University of Buffalo (SUNY).</code>**
