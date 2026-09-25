@@ -10,7 +10,8 @@
 - 🌱 **<code style="color: #222">I completed my bachelor's in Electrical Engineering at Jadavpur University in West Bengal, India. During my studies, I gained experience in Computer Vision by working with Prof. Ram Sarkar and as an intern under the supervision of Prof. P. Shivakumara and Prof. Umapada Pal. I participated in numerous hackathons and was a finalist at the IEEE R10 Robotics Competiton, 2022 held at Chulalongkorn University, Thailand.</code>**
 - ✌️ **<code style="color: #222">I have published in popular computer vision conferences (ICPR, ICDAR, ACPR, ISBI, MIUA, MIDL, AISTATS, CVPR, NeurIPS) and journals (IEEE Transactions, TMLR).</code>**
 
-#### Familiar With 👌
+#### My CV 📄
+[![CV](https://img.shields.io/badge/Curriculum_Vitae-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/CV.pdf)
 
 
 
