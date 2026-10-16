@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="style.css">
 
-**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Honors](hackathons.md)** |
+
+## Awards ✌️ <a id="awards"></a>
+
+|**<code style="color: #FF8C00">2021</code>**| **<code style="color: #FF8C00">NeurIPS 2026 Financial Assistance Award</code>**| ** 
 
 ## Hackathons ✌️ <a id="hackathons"></a>
 
