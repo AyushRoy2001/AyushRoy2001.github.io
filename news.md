@@ -7,14 +7,14 @@
 - 📳 **<code style="color: #FC465B">One paper has been accepted at CVPR 2026 to be held in Denver, Colorado on June 05-07, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted at MIDL 2026 to be held in Taipei, Taiwan on July 08-10, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted at AISTATS 2026 to be held in Tangier, Morocco on May 02-05, 2026.</code>**
-- 📳 **<code style="color: Green"> Started internship as a summer research intern in Lawrence Livermore National Lab (LLNL) on August 22, 2026.</code>**
+- 💼 **<code style="color: Green"> Started internship as a summer research intern in Lawrence Livermore National Lab (LLNL) on August 22, 2026.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted at TMLR.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted at NeurIPS 2026 to be held in Atlanta, USA on Dec 08-13, 2026.</code>**
 - 🏆 **<code style="color: #B8860B">Received the NeurIPS 2026 Financial Assistance Award.</code>**
 
 ***2024***
-- 📳 **<code style="color: Green"> Started my PhD on August 17, 2024 under the supervision of Prof. Vishnu Lokhande at the University at Buffalo (SUNY).</code>**
-- 📳 **<code style="color: Green"> Completed my Bachelor's in Electrical Engineering from Jadavpur University.</code>**
+- 💼 **<code style="color: Green"> Started my PhD on August 17, 2024 under the supervision of Prof. Vishnu Lokhande at the University at Buffalo (SUNY).</code>**
+- 💼 **<code style="color: Green"> Completed my Bachelor's in Electrical Engineering from Jadavpur University.</code>**
 - 📳 **<code style="color: #FC465B">Three papers have been accepted at ICPR 2024 to be held in Kolkata, India on December 01 – 05, 2024.</code>**
 - 📳 **<code style="color: #FC465B">One paper has been accepted at MIUA 2024 to be held in Manchester, England on July 24 – 26, 2024.</code>**
 - 📳 **<code style="color: #FC465B">Two papers have been accepted at ISBI 2024 to be held in Athens, Greece on May 27 – 30, 2024.</code>**
