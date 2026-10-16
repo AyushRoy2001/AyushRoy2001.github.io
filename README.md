@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Awards](hackathons.md)** |
 
 ## About Me 😊👋
 [![GMail Logo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aroy80321@gmail.com)
