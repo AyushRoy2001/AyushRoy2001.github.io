@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Hackathons](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Awards](hackathons.md)** |
 
 ## News 👀 <a id="news"></a>
 ***2026***
