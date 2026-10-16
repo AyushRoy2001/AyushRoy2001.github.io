@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Honors](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Honors](honors.md)** |
 
 ***All publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=Z3RZLPMAAAAJ&hl=en).***
 
