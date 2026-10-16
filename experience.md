@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Honors](hackathons.md)** |
+**[News](news.md)** | **[Experience](experience.md)** | **[Publications](publications.md)** | **[Honors](honors.md)** |
 
 ## Internships 💫 <a id="experience"></a>
 
